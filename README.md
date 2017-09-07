@@ -1,2 +1,4 @@
 # js-prototype-demo
-关于js原型的理解
+原型链、constructor和prototype图文详解
+
+(博客分析doc)[http://www.jianshu.com/p/1fbf3bbc3561]
